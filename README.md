@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shad
+# Hi, I'm ai engg
 
 ### AI Engineer | Data Science Student | Builder of LLM Apps, Agents, and Data Products
 
